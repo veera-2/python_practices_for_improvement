@@ -1,6 +1,7 @@
 patient_name = "john smith"
 age = 20
 new_patient = True
+
 print("name: "+patient_name)
 print("age: "+str(age))
 print("new patient: "+str(new_patient))

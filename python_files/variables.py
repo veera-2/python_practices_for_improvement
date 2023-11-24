@@ -18,7 +18,7 @@ print("my age is: "+str(age))  # we use this (+str(age)) to convert our int to s
 
 # FLOAT DATA TYPE (A DECIMAL NUMBER) = FLOATING POINT NUMBER
 
-height = 250.5
+height = 1.65
 print("my height is: "+str(height)+"cm")
 # #print(type(height)) # this will print the name of the data type.
 
