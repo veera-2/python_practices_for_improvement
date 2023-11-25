@@ -1,4 +1,4 @@
- LOGICAL OPERATORS (and,or,not) = used to check if two or more conditional statement are true
+# LOGICAL OPERATORS (and,or,not) = used to check if two or more conditional statement are true
 
 # temp = int(input("What is the temperature outside?: "))
 
