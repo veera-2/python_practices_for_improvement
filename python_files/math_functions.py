@@ -1,5 +1,5 @@
 # MATH FUNCTIONS
-import math # you use this for any maths functions.
+import math # you use this for any maths functions, it contains reusable maths functions. it use 'math.' to asign.
 
 pi = 3.14
 x = 1
